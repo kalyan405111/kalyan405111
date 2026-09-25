@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render-theta.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hey%2C%20I%20am%20Kalyan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%20%26%20ML%20%7C%20Python%20%7C%20MERN%20%7C%20Unity%20WebGL&descAlignY=55&descSize=18" width="100%"/>
+<div align="center">
+
+# 👋 Hey, I'm Kalyan
+
+### Full Stack Dev | AI & ML | Python | MERN | Unity WebGL
+
+</div>
 
 <a href="https://linkedin.com/in/kalyanyalla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/kalyan405111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -89,6 +95,10 @@ me.say_hi()
 
 ### 💬 "Code is like humor. When you have to explain it, it's bad."
 
-<img src="https://capsule-render-theta.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
+---
+
+<div align="center">
+<sub>Thanks for stopping by! 🚀</sub>
+</div>
 
 </div>
