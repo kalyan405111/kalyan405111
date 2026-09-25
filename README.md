@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hey,%20I'm%20Kalyan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%20%26%20ML%20%7C%20Python%20%7C%20MERN%20%7C%20Unity%20WebGL&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hey%2C%20I%20am%20Kalyan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%20%26%20ML%20%7C%20Python%20%7C%20MERN%20%7C%20Unity%20WebGL&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/kalyanyalla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/kalyan405111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -19,14 +19,17 @@
 class Kalyan:
     def __init__(self):
         self.role = "Full Stack Developer (Fresher)"
-        self.education = "B.Tech CSE (AI & ML), Aditya College of Engineering & Technology"
-        self.location = "Kakinada, Andhra Pradesh, India"
-        self.currently_learning = ["DSA patterns", "System design basics", "Django REST"]
-        self.stack = ["Python", "JavaScript/TypeScript", "React", "Node.js", "MongoDB", "Django"]
+        self.education = "B.Tech CSE (AI & ML)"
+        self.college = "Aditya College of Engg & Tech"
+        self.location = "Kakinada, Andhra Pradesh"
+        self.learning = ["DSA", "System design", "Django REST"]
+        self.stack = ["Python", "JS/TS", "React",
+                      "Node.js", "MongoDB", "Django"]
         self.status = "🟢 Open to opportunities"
 
     def say_hi(self):
-        print("Thanks for stopping by — let's build something! 🚀")
+        print("Thanks for stopping by — let's build! 🚀")
+
 
 me = Kalyan()
 me.say_hi()
@@ -35,24 +38,6 @@ me.say_hi()
 <br>
 
 ## 🚀 Things I'm Building
-
-<div align="center">
-
-<a href="https://github.com/kalyan405111/DSA-problems">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyan405111&repo=DSA-problems&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/kalyan405111/mediConnect">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyan405111&repo=mediConnect&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/kalyan405111/Food-Ordering-App-MERN">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyan405111&repo=Food-Ordering-App-MERN&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/kalyan405111/posenet-video-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyan405111&repo=posenet-video-project&theme=radical&hide_border=true" />
-</a>
-
-</div>
 
 | 🍔 Project | ⚡ What it does |
 |---|---|
